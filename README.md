@@ -29,6 +29,6 @@ Remember to document your code, provide clear instructions, and credit any exter
 
 Enjoy the process of bringing Baby Yoda to life through this project and let your creativity shine!
 
-[Baby yoda](https://byalyck.github.io/Baby-Yoda/)
+[𝗠𝗼𝗿𝗲](https://byalyck.github.io/Baby-Yoda/)
 ##
 ![𝗕𝗮𝗯𝘆 𝗬𝗼𝗱𝗮](https://github.com/ByAlyck/Baby-Yoda/assets/113322342/a0469d20-68f9-4edc-87cd-174407c98f99)
